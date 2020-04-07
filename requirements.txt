@@ -1,4 +1,4 @@
 FLASK
-flask_oidc
+flask_oidc_ex
 flask-sqlalchemy
 flask-session

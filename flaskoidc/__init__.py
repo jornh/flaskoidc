@@ -1,6 +1,6 @@
 from flask import redirect, Flask, request
 from flask.helpers import get_env, get_debug_flag
-from flask_oidc import OpenIDConnect
+from flask_oidc_ex import OpenIDConnect
 from flask_session import Session
 from flask_sqlalchemy import SQLAlchemy
 
